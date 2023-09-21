@@ -22,3 +22,5 @@ The purpose of this work is to update an existing website to accomodate for mode
 [Link to my Github repository](https://github.com/anplace/Horiseon-Website-Refactor)
 
 [Link to the deployed Horiseon Refactor site](https://anplace.github.io/Horiseon-Website-Refactor/)
+
+![Alt text](image.png)
