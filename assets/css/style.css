@@ -39,7 +39,7 @@ body {
 
 /* Provides the color for the 'seo' 
     portion of the header. */
-.header h1 .seo {
+.seo {
     color: #fd5d00;
 }
 
@@ -118,37 +118,37 @@ in the SEO and SMM paragraphs respectively.*/
 }
 
 /* Provides the benefits bar on the right side of the page with padding,
-    box dimenstions, font, and coloring. */
-    .benefits {
-        margin-right: 20px;
-        padding: 20px;
-        clear: both;
-        float: right;
-        width: 20%;
-        height: 100%;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-color: #2589bd;
-    }
+box dimenstions, font, and coloring. */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
     
-    /* Font color and margin between the next benefit below lead generation */
-    .benefit-font {
-        margin-bottom: 32px;
-        color: #ffffff;
-    }
+/* Font color and margin between the next benefit below lead generation */
+.benefit-font {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
     
-    /* Margin and text alignment for the lead generation header in the
-        benefits bar. */
-    .benefit-font h3 {
-        margin-bottom: 10px;
-        text-align: center;
-    }
+/* Margin and text alignment for the lead generation header in the
+benefits bar. */
+.benefit-font h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
     
-    /* Provides dimensions for the lead generation image in the benefits bar */
-    .benefit-font img {
-        display: block;
-        margin: 10px auto;
-        max-width: 150px;
-    }
+/* Provides dimensions for the lead generation image in the benefits bar */
+.benefit-font img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
     
 /*  Creates the footer of the webiste and dictates the font, font size, 
     background color, and padding */
